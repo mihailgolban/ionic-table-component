@@ -1,0 +1,7 @@
+{
+  "name": "table-component",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
